@@ -1,0 +1,81 @@
+.carousel{
+    height: 730px;
+}
+.carousel-inner img{
+    height: 730px;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.navbar-brand{
+color: green;
+}
+.d1{
+    padding-top: 10%;
+    background-color: rgb(60, 60, 60);
+    color: rgb(170, 167, 162);
+}
+.d2{
+    display: flex; padding: 0.5%; 
+    background-color: rgb(60, 60, 60);
+    color:rgb(170, 167, 162);
+    justify-content: space-evenly;
+}
+.dd1{
+    width:40% ; height: 60vh; background-image: url(img/istockphoto-453069301-612x612.jpg); margin-left: 5%;
+}
+.dd2{
+    width:40% ; height: 60vh; padding-left: 10%; color: rgb(170, 167, 162);
+}
+.dd3{
+    width:40% ; height: 60vh; padding-top: 2%; color: rgb(170, 167, 162); padding-left: 5%;
+}
+.dd4{
+    width:40% ; height: 60vh; background-image: url(img/nationalgeographic_2723899.jpg); margin-left: 5%;
+}
+.dd{
+    display: flex;
+}
+.d3{
+    padding-top: 10%; background-color: rgb(60, 60, 60);
+}
+.d5{
+    display: flex; justify-content: space-evenly ; color: rgb(255, 150, 0);
+}
+.d6{
+    text-align: center; padding-top: 10%; color: rgb(255, 150, 0);
+}
+.d7{
+    text-align: center; padding-top: 10%;  color: rgb(170, 167, 162);
+}
+.dtt{
+    display: flex; justify-content: space-evenly; padding-top: 5%;
+}
+.dttt{
+   border-radius: 10px; width: 300px; height: 320px; background-color: rgb(71, 69, 69); color: antiquewhite;
+}
+.dtt1{
+    width:45%; height: 40%; background-image: url(img/Bald_Eagle_\(Haliaeetus_leucocephalus\)_Kachemak_Bay\,_Alaska.jpg);
+    border-radius: 50%; margin-left: 25%; margin-top: 7%;}
+    .dtt2{
+        width:45%; height: 40%; background-image: url(img/45816615835_c095854937_b.jpg);
+        border-radius: 50%; margin-left: 25%; margin-top: 7%;}
+        .dtt3{
+            width:45%; height: 40%; background-image: url(img/93828_030c3e965382224b66942d2c9f818969_large.jpg);
+            border-radius: 50%; margin-left: 25%; margin-top: 7%;}
+            .btn{
+             width: 30%; color: aliceblue;
+            }
+            .button{ background-color: rgb(255, 150, 0); color: antiquewhite;
+            padding: 5px;
+        border-radius: 10px;}
+            .button:hover{ background-color: rgba(255, 149, 0, 0); color: antiquewhite; border-top: 1px solid antiquewhite; border-bottom: 1px solid antiquewhite;}
+input , textarea{
+border-radius: 10px;
+padding: 5px;
+background-color: rgb(67, 64, 64);
+font-style: italic;
+}  
+.input1{
+    margin-right: 100px;
+}       
